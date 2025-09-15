@@ -1,0 +1,13 @@
+streamlit>=1.36.0
+langchain>=0.2.10
+langchain-community>=0.2.10
+faiss-cpu>=1.7.4
+transformers>=4.41.2
+torch>=2.2.0
+numpy>=1.24.0
+unstructured>=0.12.6
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+sentencepiece>=0.1.99
+
+
