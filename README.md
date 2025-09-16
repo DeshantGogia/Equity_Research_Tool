@@ -16,7 +16,7 @@ Yes, ChatGPT and many other commercial AI models can perform similarly. However,
 
 <img width="757" height="228" alt="Screenshot 2025-09-16 130727" src="https://github.com/user-attachments/assets/aa8fc881-9b2a-48c2-969b-1d692d2c0a34" />
 
-<img width="796" height="70" alt="Screenshot 2025-09-06 051221" src="https://github.com/user-attachments/assets/4c60f705-b003-4c21-9411-10004a4e79eb" />
+<img width="1012" height="196" alt="Screenshot 2025-09-16 130738" src="https://github.com/user-attachments/assets/6ae0cc24-0eea-419d-9313-e01076d4b59e" />
 
 <img width="960" height="170" alt="Screenshot 2025-09-16 130756" src="https://github.com/user-attachments/assets/484b8398-8d38-4d43-b149-387505ca42d1" />
 
