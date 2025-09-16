@@ -6,6 +6,8 @@ A QnA tool where user upload's the number of web URL's to the streamlit UI --> t
 
 <img width="1857" height="758" alt="Screenshot 2025-09-15 190726" src="https://github.com/user-attachments/assets/163458fd-ec66-4d99-88fd-f0a8cb633701" />
 
+
+
 Yes, ChatGPT and many other commercial AI models can perform similarly. However, the key advantage of this approach is that it extracts only the most relevant chunks of data from the uploaded web URLs and provides them to the LLM based on the user’s query. This not only improves contextual accuracy but also helps optimize token usage, which is especially important when working with commercial models like ChatGPT that have token limitations.
 
 
