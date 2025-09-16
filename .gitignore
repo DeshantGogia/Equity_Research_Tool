@@ -12,6 +12,5 @@ venv/
 .DS_Store
 *.swp
 
-# Large artifacts
+# Large artifacts (adjust as needed)
 *.faiss
-*.pkl
