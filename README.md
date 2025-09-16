@@ -2,7 +2,7 @@
 
 A local GenAI-powered equity research helper. Includes FAISS retrieval and FinBERT sentiment.
 
-A QnA tool where you upload the number of web URL's to the streamlit UI --> the llama 3:8b model retrieves the vector indexes created using FINBERT of the text in the URL through RAG  -->  ask a question related to the uploaded URL --> answer's the question based on the URL's --> setting model parameters like temperature to generate answers.
+A QnA tool where user upload's the number of web URL's to the streamlit UI --> the llama 3:8b model retrieves the vector indexes created using FINBERT of the text in the URL through RAG  -->  user ask's a question related to the uploaded URL --> answer's the question based on the URL's --> setting model parameters like temperature to generate answers.
 
 <img width="1857" height="758" alt="Screenshot 2025-09-15 190726" src="https://github.com/user-attachments/assets/163458fd-ec66-4d99-88fd-f0a8cb633701" />
 
